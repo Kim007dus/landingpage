@@ -79,7 +79,6 @@ button {
     gap: 20px;
 }
 
-
 img {
     border-radius: 25px;
     width: 200px;
@@ -87,9 +86,25 @@ img {
     border: 3px solid #3882f6;
 }
 
-footer {
+.block3 {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    padding: 20px 100px 20px 100px;
+    text-align: left;
+}
+
+.author {
+    text-align: right;
+    font-weight: bold;
+}
+
+
+
+    footer {
     background-color: #1f2937; 
     color: #f9faf8;
     margin-top: 50px;
     padding: 20px;
-}
+    }
