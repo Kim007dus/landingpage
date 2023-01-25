@@ -1,3 +1,10 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
 header {
     background-color: #1f2937;
     display:flex;
@@ -17,4 +24,8 @@ ul {
     font-size: 18px;
     display: flex;
     gap: 15px;
+}
+
+footer {
+    background-color: #1f2937; 
 }
