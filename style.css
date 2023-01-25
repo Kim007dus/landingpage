@@ -33,17 +33,18 @@ ul {
     padding: 20px 100px 40px 100px;
     justify-content: center;
     align-items: center;
+    gap: 150px;
     
 }
 
 .content {
     color: #e5e7eb;
     font-size: 18px;
-    width: 200px;
+    width: 300px;
+    text-align: left;
 }
 
 .imgbig {
-    align-self: flex-end;
     width: 400px;
     
 }
@@ -54,6 +55,18 @@ h1 {
     font-weight: bolder;
 }
 
+button {
+    background-color: #3882f6;
+    border-radius: 25px;
+    border: 2px solid #3882f6;
+    padding: 10px 20px 10px 20px;
+    color: #f9faf8;
+}
+
+
 footer {
     background-color: #1f2937; 
+    color: #f9faf8;
+    margin-top: 50px;
+    padding: 20px;
 }
