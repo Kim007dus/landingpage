@@ -62,7 +62,7 @@ h2 {
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
-    margin: 0;
+    margin: 20px;
 }
 
 button1 {
@@ -71,6 +71,7 @@ button1 {
     border: 2px solid #3882f6;
     padding: 10px 20px 10px 20px;
     color: #f9faf8;
+   
 }
 
 .containerblock2 {
